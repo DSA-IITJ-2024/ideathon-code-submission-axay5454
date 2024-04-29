@@ -1,14 +1,14 @@
-#Social Network Analysis using SNAP(Stanford Network Analysis Programme) US Congress Dataset
+# Social Network Analysis using SNAP(Stanford Network Analysis Programme) US Congress Dataset**
 
 Files: 
 i. main.ipynb - this is the main project file written in jupyter notebook
 ii. us_congress.edgelist - this is a data file downloaded from https://snap.stanford.edu/data/congress-twitter.html.
 
-Steps to run:
+# Steps to run:
 
 Environment: The project can be run in VSCode, Google Colab, Jupyter Notebook.
 
-VS Code:
+# VS Code:
 
 To run the project in VS Code, follow these steps:
 
