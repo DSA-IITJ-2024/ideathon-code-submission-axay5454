@@ -1,4 +1,4 @@
-# Social Network Analysis using SNAP(Stanford Network Analysis Programme) US Congress Dataset**
+# Social Network Analysis using SNAP(Stanford Network Analysis Programme) US Congress Dataset
 
 Files: 
 i. main.ipynb - this is the main project file written in jupyter notebook
